@@ -1,0 +1,21 @@
+{
+  "name": "typing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorMouro/typing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorMouro/typing/issues"
+  },
+  "homepage": "https://github.com/VitorMouro/typing#readme",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
+}
