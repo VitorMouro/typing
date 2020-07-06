@@ -1,9 +1,4 @@
-#container {
-    font-size: xx-large;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+html, body {
     font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+    tab-size: 2;
 }
-
